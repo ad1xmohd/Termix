@@ -1,4 +1,3 @@
-
 ### What is Termix??
  Termix will Help to Customise Your Termux in such a way that you will Enjoy using Termux it will give you a morden look and we also have add a feature of password,so now you can also set Password on your Termux and protect it so no one can login in your termux in absence of you.
 one more feature that we have added is that you can change dollar sign and put anything you want in that place.
@@ -21,14 +20,10 @@ Hope you guys like this Project,then dont forget to give it a like.
 </div>
 
 - 👨🏽‍💻 HELLO I’m [Ad1xmohd](https://instagram.com/ad1xmohd/ )
-- 📫 How to reach me [Whatsapp](https://wa.me/919633189774/) 
 - 💫 **I am not a expert hacker or developer.. 🌆**
 </p>
 <p align="center">
-	<a href="https://wa.me/919633189774"><img title="WhatsApp" src="https://i.pinimg.com/564x/18/46/74/1846740d0dfe3c5e4bc227bbb36d009d.jpg" width=118px "whatsapp"></a>
 	<a href="https://www.instagram.com/ad1xmohd/"><img title="INSTAGRAM" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"width=118px></a>
-	<a href="https://t.me/CybEr_g0d"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-	<a href="https://www.facebook.com/adil.pachambala"><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
 </p>
 
 ### WANNA TRY THIS NEW CUSTOMISATION OF TERMUX? IT'LL GIVE A MODERN LOOK TO YOUR TERMUX TO SHOW OFF :)
