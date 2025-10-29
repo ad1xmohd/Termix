@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Termix – Termux styling</title>
+  <style>
+    body {
+      font-family: sans‑serif;
+      line-height: 1.5;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    h1, h2 {
+      color: #333;
+    }
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      list-style: disc inside;
+    }
+    footer {
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #666;
+      border-top: 1px solid #eee;
+      padding-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Termix</h1>
+  <p>A project to stylise <code>Termux</code> with custom banners, login scripts, modern prompt, password protection, and more.</p>
+
+  <h2>Features</h2>
+  <ul>
+    <li>Full customisation of Termux environment</li>
+    <li>Password protection/login script support</li>
+    <li>Modern prompt/banner themes</li>
+    <li>Customize the “$” prompt symbol</li>
+    <li>Welcome message or voice‑message support</li>
+  </ul>
+
+  <h2>Getting Started</h2>
+  <p>Clone the repo and run the setup script:</p>
+  <pre><code>
+# termux‑setup‑storage
+pkg update && pkg upgrade && pkg install git -y
+git clone https://github.com/IND‑GANG/Termix
+cd Termix
+chmod +x *
+bash Termix.sh
+  </code></pre>
+
+  <h2>Repository Links</h2>
+  <ul>
+    <li><a href="https://github.com/ad1xmohd/Termix">GitHub repository</a></li>
+    <li><a href="LICENSE">GPL‑3.0 License</a></li>
+    <li><a href="README.md">README / project info</a></li>
+  </ul>
+
+  <footer>
+    &copy; 2025 ad1xmohd
+  </footer>
+
+</body>
+</html>
